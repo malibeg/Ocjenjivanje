@@ -1,0 +1,10 @@
+﻿/* Styles go here */
+
+div{
+  margin:2px;
+}
+
+.error{
+  color: red;
+/*  background: black;*/
+}
